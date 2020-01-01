@@ -73,3 +73,6 @@ git rebase master
 
 Step #23:
 git push origin firstbranch
+
+Step #24:
+git push origin master
