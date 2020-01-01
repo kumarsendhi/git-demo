@@ -65,3 +65,8 @@ git checkout master
 ---Merge-----
 Step #21:
 git merge firstbranch
+
+---- rebase---
+Step #22:
+git rebase master
+
