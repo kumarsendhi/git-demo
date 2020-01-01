@@ -19,3 +19,27 @@ git remote add origin "https://github.com/kumarsendhi/git-demo.git"
 
 Step #6:
 git pull origin master
+
+Step #7:
+git status
+
+Step #8:
+git add kumartextfile.txt
+
+Step #9:
+git status
+
+Step #10:
+git commit -m "Added the first file"
+
+Step #11:
+git status
+
+Step #12:
+git add -A
+
+Step #13:
+git commit -a -m "adding 3 files"
+
+Step #14:
+git log
