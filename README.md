@@ -43,3 +43,25 @@ git commit -a -m "adding 3 files"
 
 Step #14:
 git log
+
+Step #15:
+git branch
+
+Step #16:
+git branch firstbranch
+
+Step #17:
+git checkout firstbranch
+
+Step #18:
+git add kumartextfile3.txt
+
+Step #19:
+git commit -m "making changes in firstbranch"
+
+Step #20:
+git checkout master
+
+---Merge-----
+Step #21:
+git merge firstbranch
